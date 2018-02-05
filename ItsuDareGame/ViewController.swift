@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  ItsuDareGame
-//
+//test
 //  Created by 小西夏穂 on 2017/09/05.
 //  Copyright © 2017年 小西夏穂. All rights reserved.
 //
@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     let docodeArray: [String] = ["山の上で", "アメリカで", "学校で", "クラスで", "砂漠で", "海の中で"]
     let daregaArray: [String] = ["僕が", "大統領が", "先生が", "友達が", "私が", "犬が"]
     let doshitaArray: [String] = ["叫んだ", "演説した", "怒った", "踊った", "笑った", "寝た" ]
+    
     
     var index: Int = 0
     
